@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ish Fuseini"
+  name             : 
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "CRM, Email Marketing, Marketing Automation, Data, and Analytics."
   location         : "Philadelphia"
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/ishfuseini"
+  github           : "ishfuseini"
   google_plus      :
   keybase          :
   instagram        :
