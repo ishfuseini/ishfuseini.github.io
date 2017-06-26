@@ -4,16 +4,16 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-
+theme: minimal-mistakes-jekyll
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Ish Fuseini"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Ish Fuseini"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "ishfuseini.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "ishfuseini/ishfuseini.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "ishfuseini"
 facebook:
   username               :
   app_id                 :
@@ -77,19 +77,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ish Fuseini"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "CRM, Email Marketing, Marketing Automation, Data, and Analytics."
+  location         : "Philadelphia"
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
-  dribbble         :
+  dribbble         : 
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "github.com/ishfuseini"
   google_plus      :
   keybase          :
   instagram        :
@@ -233,14 +233,9 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
