@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : "Ish Fuseini"
 description              : "An amazing website."
 url                      : "https://ishfuseini.com"
-baseurl                  : "https://ishfuseini.com"
+baseurl                  : 
 repository               : "ishfuseini/ishfuseini.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
