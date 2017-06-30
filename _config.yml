@@ -13,7 +13,7 @@ title                    : "Ish Fuseini"
 title_separator          : "-"
 name                     : "Ish Fuseini"
 description              : "An amazing website."
-url                      : "https://ishfuseini.com"
+url                      : "http://ishfuseini.com"
 baseurl                  : 
 repository               : "ishfuseini/ishfuseini.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
